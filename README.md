@@ -10,7 +10,7 @@ This project demonstrates a multi-container application using FastAPI as the bac
 -Docker Compose for multi-container orchestration.
 
 ## 📂 Project Structure
-
+```
 fastapi-mysql-docker-compose/
 │
 ├── docker-compose.yml       # Docker Compose configuration
@@ -18,7 +18,7 @@ fastapi-mysql-docker-compose/
     ├── Dockerfile           # FastAPI image build file
     ├── main.py              # FastAPI application
     └── requirements.txt     # Python dependencies
-    
+  ```  
 ## 🛠️ Prerequisites
 ### Docker installed
 ```
